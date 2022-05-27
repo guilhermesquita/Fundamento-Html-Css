@@ -1,4 +1,4 @@
-# PROJETO - ROCKETS NFTs 
+# PROJETO - ROCKETS NFTs
 
 Projeto proposto pela @Rocketseat.
 
